@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "si730ebucodigo.API", "si730ebucodigo.API\si730ebucodigo.API.csproj", "{B4927369-4D88-4CA3-A453-32C680306CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4927369-4D88-4CA3-A453-32C680306CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4927369-4D88-4CA3-A453-32C680306CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4927369-4D88-4CA3-A453-32C680306CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4927369-4D88-4CA3-A453-32C680306CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
